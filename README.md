@@ -22,7 +22,10 @@ https://github.com/user-attachments/assets/05fe96a0-6768-4b43-b352-2e55a2f669e3
 ### Fall Detection in Action
 
 
-https://github.com/user-attachments/assets/43a49377-8528-4238-8020-78848782cd8c
+
+https://github.com/user-attachments/assets/6ce7f6f4-c47b-4bae-b17f-a0268edce726
+
+
 
 
 *Video demonstrating successful fall detection scenarios*
