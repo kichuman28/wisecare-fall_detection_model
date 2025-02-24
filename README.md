@@ -12,11 +12,19 @@ WiseCare Fall Detection System is an innovative solution designed to enhance eld
 ## 🎥 Demo Videos
 
 ### Normal Activity Detection
-[Insert Non-Detected Video Here]
+
+
+https://github.com/user-attachments/assets/05fe96a0-6768-4b43-b352-2e55a2f669e3
+
+
 *Video showing normal activities being correctly identified*
 
 ### Fall Detection in Action
-[Insert Detected Video Here]
+
+
+https://github.com/user-attachments/assets/43a49377-8528-4238-8020-78848782cd8c
+
+
 *Video demonstrating successful fall detection scenarios*
 
 ## ✨ Key Features
