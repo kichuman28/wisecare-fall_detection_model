@@ -2,12 +2,13 @@
 <p align="center">
   <img src="logo_no_text.png" alt="Wise Care Banner" width="150"/>
 </p>
+<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-green)](https://opencv.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)](https://tensorflow.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
+</div>
 ## 🌟 Overview
 
 WiseCare Fall Detection System is an innovative solution designed to enhance elderly care and safety monitoring. Using advanced computer vision and machine learning techniques, our system provides real-time fall detection capabilities, helping caregivers respond quickly to potential emergencies.
