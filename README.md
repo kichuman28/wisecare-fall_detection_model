@@ -1,4 +1,7 @@
 # 🎯 WiseCare - Fall Detection System
+<p align="center">
+  <img src="logo_no_text.png" alt="Wise Care Banner" width="150"/>
+</p>
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-green)](https://opencv.org/)
